@@ -1,0 +1,38 @@
+	TCGA.cancerid	primary_diagnosis_tissue_or_organ_of_origin	Freq
+1	BRCA	Adenocarcinoma, NOS, Breast, NOS	1
+2	COAD	Adenocarcinoma, NOS, Colon, NOS	105
+3	LUAD	Adenocarcinoma, NOS, Lower lobe, lung	55
+4	LUAD	Adenocarcinoma, NOS, Lung, NOS	70
+5	LUAD	Adenocarcinoma, NOS, Middle lobe, lung	4
+6	READ	Adenocarcinoma, NOS, Rectum, NOS	1
+7	LUAD	Adenocarcinoma, NOS, Upper lobe, lung	84
+8	UCEC	Endometrioid adenocarcinoma, NOS, Corpus uteri	79
+9	UCEC	Endometrioid adenocarcinoma, NOS, Endometrium	37
+10	GBM	Glioblastoma, Brain, NOS	44
+11	GBM	Glioblastoma, Frontal lobe	21
+12	GBM	Glioblastoma, Occipital lobe	6
+13	GBM	Glioblastoma, Parietal lobe	7
+14	GBM	Glioblastoma, Temporal lobe	21
+15	BRCA	Infiltrating duct and lobular carcinoma, Breast, NOS	2
+16	BRCA	Infiltrating duct and mucinous carcinoma, Breast, NOS	1
+17	BRCA	Infiltrating duct carcinoma, NOS, Breast, NOS	99
+18	BRCA	Infiltrating lobular carcinoma, NOS, Breast, NOS	11
+19	BRCA	Intraductal papillary carcinoma, Breast, NOS	1
+20	BRCA	Mucinous carcinoma, Breast, NOS	1
+21	BRCA	Not Reported, Breast, NOS	16
+22	KIRC	Renal cell carcinoma, NOS, Kidney, NOS	185
+23	OV	Serous adenocarcinoma, NOS, Fallopian tube	21
+24	OV	Serous adenocarcinoma, NOS, Ovary	71
+25	OV	Serous adenocarcinoma, NOS, Peritoneum, NOS	9
+26	HNSC	Squamous cell carcinoma, NOS, Base of tongue, NOS	2
+27	BRCA	Squamous cell carcinoma, NOS, Breast, NOS	1
+28	HNSC	Squamous cell carcinoma, NOS, Cheek mucosa	4
+29	HNSC	Squamous cell carcinoma, NOS, Floor of mouth, NOS	25
+30	HNSC	Squamous cell carcinoma, NOS, Gum, NOS	5
+31	HNSC	Squamous cell carcinoma, NOS, Head, face or neck, NOS	4
+32	HNSC	Squamous cell carcinoma, NOS, Larynx, NOS	78
+33	HNSC	Squamous cell carcinoma, NOS, Lip, NOS	5
+34	HNSC	Squamous cell carcinoma, NOS, Oropharynx, NOS	7
+35	HNSC	Squamous cell carcinoma, NOS, Overlapping lesion of lip, oral cavity and pharynx	8
+36	HNSC	Squamous cell carcinoma, NOS, Tongue, NOS	32
+37	HNSC	Squamous cell carcinoma, NOS, Tonsil, NOS	1
